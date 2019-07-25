@@ -16,3 +16,9 @@ for i in name:
     n=n.replace(b,name[2])
     b=b-1
     print(n)
+      
+      
+#or
+
+
+print(name[::-1])

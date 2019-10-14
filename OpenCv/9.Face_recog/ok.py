@@ -7,7 +7,7 @@ from email import encoders
 
 def sendit(msgid):
     email_user = 'niteshraspi007@gmail.com'
-    email_password = 'raspberry.error'
+    email_password = '*************'
     email_send = 'niteshkrsit@gmail.com'
 
     subject = 'INCOMMING'
